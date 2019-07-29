@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://feeds.megaphone.fm/crazygenius" rel="self" type="application/rss+xml"/>
+    <title>Crazy/Genius</title>
+    <link>https://www.theatlantic.com/podcasts/</link>
+    <language>en</language>
+    <copyright>Copyright © 2018 by The Atlantic Monthly Group. All Rights Reserved.</copyright>
+    <description>Big questions about technology, science, and culture, hosted by The Atlantic’s Derek Thompson. On Season 3 (launching May 9): unbreak the internet.</description>
+    <image>
+      <url>https://static.megaphone.fm/podcasts/1deb8d58-3e98-11e8-8972-930fc446ca65/image/uploads_2F1556647736425-iozc3pqxpy-565a4112738ffdbd5608733ea6c3d6f2_2FCrazyGenius_Final_Cover%2B_281_29.jpg</url>
+      <title>Crazy/Genius</title>
+      <link>https://www.theatlantic.com/podcasts/</link>
+    </image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle>Big questions about technology, science, and culture, hosted by The Atlantic’s Derek Thompson. </itunes:subtitle>
+    <itunes:author>The Atlantic</itunes:author>
+    <itunes:summary>Big questions about technology, science, and culture, hosted by The Atlantic’s Derek Thompson. On Season 3 (launching May 9): unbreak the internet.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>The Atlantic Monthly Group, LLC </itunes:name>
+      <itunes:email>podcastproduct@theatlantic.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://static.megaphone.fm/podcasts/1deb8d58-3e98-11e8-8972-930fc446ca65/image/uploads_2F1556647736425-iozc3pqxpy-565a4112738ffdbd5608733ea6c3d6f2_2FCrazyGenius_Final_Cover%2B_281_29.jpg"/>
+    <itunes:category text="Technology">
+    </itunes:category>
+    <itunes:category text="Society &amp; Culture">
+    </itunes:category>
+    <itunes:category text="News &amp; Politics">
+    </itunes:category>
+    <item>
+      <title>How Has Netflix Changed Entertainment?</title>
+      <description>The numbers are staggering: thousands of titles for 160 million subscribers in 190 countries. Netflix has changed where we watch -- that's obvious. But has it also changed what we watch, and how?&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Wed, 26 Jun 2019 10:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:title>How Has Netflix Changed Entertainment?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:subtitle>Netflix has changed where we watch -- that's obvious. But has it also changed what we watch, and how?</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[The numbers are staggering: thousands of titles for 160 million subscribers in 190 countries. Netflix has changed where we watch -- that's obvious. But has it also changed what we watch, and how?<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>1670</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[e99264fa-6d08-11e9-b9cf-0fa92d6b8051]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL7346949947.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Should We Be Afraid of AI in the Criminal Justice System?</title>
+      <description>Algorithms pervade our lives. They determine the news we see and the products we buy. But most Americans don’t understand how they are transforming every part of the criminal justice system—from policing and bail to sentencing and parole. Could computers make the legal system more fair? Or is it inherently unjust to put a person’s life in the hands of an algorithm?&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Thu, 20 Jun 2019 10:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:title>Should We Be Afraid of AI in the Criminal Justice System?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:subtitle>Could computers make the legal system more fair? Or is it inherently unjust to put a person’s life in the hands of an algorithm?</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Algorithms pervade our lives. They determine the news we see and the products we buy. But most Americans don’t understand how they are transforming every part of the criminal justice system—from policing and bail to sentencing and parole. Could computers make the legal system more fair? Or is it inherently unjust to put a person’s life in the hands of an algorithm?<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>1769</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[e9883c1e-6d08-11e9-b9cf-a3600d6f0116]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL9846505342.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Influencers: Frauds or the Future of Online Commerce?</title>
+      <description>Instagram influencers are beloved by fans and mocked by critics, but is there more to influencing than meets the eye? A look at what a growing industry can teach us about the future of life online.&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Thu, 06 Jun 2019 10:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:title>Influencers: Frauds or the Future of Online Commerce?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:subtitle>What the growing influencer industry can teach us about the future of life online.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Instagram influencers are beloved by fans and mocked by critics, but is there more to influencing than meets the eye? A look at what a growing industry can teach us about the future of life online.<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>1433</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[e9716d0e-6d08-11e9-b9cf-f31dc6f7f989]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL5620542706.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The U.S. and China: A Tale of Two Surveillance States</title>
+      <description>From Beijing to Brooklyn, facial recognition is on the cutting edge of surveillance technology. But does the threat of this tech outweigh its benefits? A look at two communities living under the microscope.&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Thu, 30 May 2019 10:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:title>The U.S. and China: A Tale of Two Surveillance States</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:subtitle> A look at two communities living under the microscope.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[From Beijing to Brooklyn, facial recognition is on the cutting edge of surveillance technology. But does the threat of this tech outweigh its benefits? A look at two communities living under the microscope.<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>1666</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[e966f05e-6d08-11e9-b9cf-7bd027e5db1e]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL4555438636.mp3?updated=1559321891" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>How Did the Far Right Take Over the Web?</title>
+      <description>From Charlottesville, Virginia, to Christchurch, New Zealand, the last few years have been filled with examples of online hatred spilling over into offline violence. How did the Web become one big media channel for the far right, and how can we make the Internet safe from extremism?&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Thu, 23 May 2019 10:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:title>How Did the Far Right Take Over the Web?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:subtitle>How did the Web become one big media channel for the far right, and how can we make the Internet safe from extremism?</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[From Charlottesville, Virginia, to Christchurch, New Zealand, the last few years have been filled with examples of online hatred spilling over into offline violence. How did the Web become one big media channel for the far right, and how can we make the Internet safe from extremism?<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>1630</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[e95c8d26-6d08-11e9-b9cf-cf31246154e5]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL7528023383.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>What Is Pornography Doing to Our Sex Lives?</title>
+      <description>Young people are having less sex, and access to digital pornography has never been greater. Coincidence? In this episode, we wade into the debate over pornography and determine what, if anything, can be said about its effect on our relationships.&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Thu, 16 May 2019 10:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:title>What Is Pornography Doing to Our Sex Lives?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:subtitle>We wade into the debate over pornography and determine what, if anything, can be said about its effect on our relationships.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Young people are having less sex, and access to digital pornography has never been greater. Coincidence? In this episode, we wade into the debate over pornography and determine what, if anything, can be said about its effect on our relationships.<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>1545</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[e950a5ce-6d08-11e9-b9cf-cbacc04e7726]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL9134414103.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Why Should We Care About Privacy?</title>
+      <description>Admit it: You have no idea what privacy means anymore. These days, virtually all online activity—searching, shopping, browsing—requires giving away our personal information to tech companies. In this episode, we review the 200 year history of privacy in America and explain what the new age of “surveillance capitalism” means for all of us who have to live in it.&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Thu, 09 May 2019 10:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:title>Why Should We Care About Privacy?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:subtitle>The 200 year history of privacy in America, and what the new age of “surveillance capitalism” means for all of us.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Admit it: You have no idea what privacy means anymore. These days, virtually all online activity—searching, shopping, browsing—requires giving away our personal information to tech companies. In this episode, we review the 200 year history of privacy in America and explain what the new age of “surveillance capitalism” means for all of us who have to live in it.<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>1933</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[e94320c0-6d08-11e9-b9cf-132b5184641f]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL3091532977.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Season 3 Trailer: Unbreak the Internet</title>
+      <description>Ten years ago, “Move fast and break things” was the clarion call of the world’s tech giants. Well, they moved fast and broke stuff, alright. Lots of stuff. Whether it’s Facebook privacy scandals, YouTube’s radicalization of the far right, or China’s brutal use of surveillance gadgetry, digital technology seems to be a relentless force for greed, bad faith, and tyranny these days. Let’s talk about it.&lt;br&gt;&lt;br&gt;“Unbreak the Internet” is the theme for the third season of &lt;em&gt;Crazy/Genius&lt;/em&gt;, &lt;em&gt;The Atlantic&lt;/em&gt;’s podcast on tech and culture. Over the course of eight weeks, we’ll expose the surveillance states in both western China and East New York, ask if digital platforms are an accelerant for right-wing nationalism, tell you why privacy is the climate-change crisis of the internet, and more.&lt;br&gt;&lt;br&gt; The third season of &lt;em&gt;Crazy/Genius&lt;/em&gt; returns on May 9.&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Thu, 02 May 2019 11:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:title>Season 3 Trailer: Unbreak the Internet</itunes:title>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:subtitle>Surveillance capitalism, porn wars, totalitarian AI in Brooklyn and Beijing, and other real-life dystopias</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Ten years ago, “Move fast and break things” was the clarion call of the world’s tech giants. Well, they moved fast and broke stuff, alright. Lots of stuff. Whether it’s Facebook privacy scandals, YouTube’s radicalization of the far right, or China’s brutal use of surveillance gadgetry, digital technology seems to be a relentless force for greed, bad faith, and tyranny these days. Let’s talk about it.<br><br>“Unbreak the Internet” is the theme for the third season of <em>Crazy/Genius</em>, <em>The Atlantic</em>’s podcast on tech and culture. Over the course of eight weeks, we’ll expose the surveillance states in both western China and East New York, ask if digital platforms are an accelerant for right-wing nationalism, tell you why privacy is the climate-change crisis of the internet, and more.<br><br> The third season of <em>Crazy/Genius</em> returns on May 9.<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>100</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[e9a2680a-6c2c-11e9-8417-cf297a1b0515]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL8103354258.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Tech Was Supposed to Be Society’s Great Equalizer. What Happened?</title>
+      <description>In a special bonus episode, computer scientist and data journalist Meredith Broussard explains how “technochauvinism” derailed the dream of the digital revolution.&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Fri, 28 Sep 2018 10:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/c41bccae-c0d6-11e8-886b-1f75830763a2/image/uploads_2F1538075430676-dc8i674cxak-9abb659117f848f2dbaf9ba17f58c8d4_2FCG-3000x3000.jpg"/>
+      <itunes:title>Tech Was Supposed to Be Society’s Great Equalizer. What Happened?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:subtitle>In a special bonus episode, computer scientist and data journalist Meredith Broussard explains how “technochauvinism” derailed the dream of the digital revolution.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[In a special bonus episode, computer scientist and data journalist Meredith Broussard explains how “technochauvinism” derailed the dream of the digital revolution.<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>1543</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[c41bccae-c0d6-11e8-886b-1f75830763a2]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL9358420649.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Can Artificial Intelligence Be Smarter Than a Human Being?</title>
+      <description>AI can beat human geniuses at Jeopardy, chess, and complex mathematics. But surely, these machines don’t have anything that even closely resembles human imagination. Or do they?&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Thu, 27 Sep 2018 10:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/17312f8e-aa3d-11e8-aabf-cfb42fbdc630/image/uploads_2F1537992702962-0b3l0akkmto-dcaa43756a5bfa0e7fd106ab029ee97a_2F3000x3000.jpg"/>
+      <itunes:title>Can Artificial Intelligence Be Smarter Than a Human Being?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:subtitle>Surely, AI technology has nothing that even closely resembles human imagination. Or does it?</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[AI can beat human geniuses at Jeopardy, chess, and complex mathematics. But surely, these machines don’t have anything that even closely resembles human imagination. Or do they?<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>1841</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[17312f8e-aa3d-11e8-aabf-cfb42fbdc630]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL5328381860.mp3?updated=1537993341" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Will We Ever Stop Eating Animal Meat?</title>
+      <description>Americans eat more meat now than ever. That’s a problem for the planet’s future. Animal farming takes up 30 percent of the earth’s landmass (the equivalent of Asia), and livestock causes one-sixth of global greenhouse gas emissions. We need more than moral arguments against meat. We need a technological revolution in better, cleaner food.&amp;nbsp;&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Thu, 20 Sep 2018 10:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/9fb0aa8e-aa3c-11e8-ae95-53716dbaaf1f/image/uploads_2F1537394203892-y83nxskmww-51a52f9697a5cea29162c2c1e72aa582_2F3000x3000%2B_281_29.jpg"/>
+      <itunes:title>Will We Ever Stop Eating Animal Meat?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:subtitle>We need more than moral arguments against meat. We need a technological revolution in better, cleaner food. </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Americans eat more meat now than ever. That’s a problem for the planet’s future. Animal farming takes up 30 percent of the earth’s landmass (the equivalent of Asia), and livestock causes one-sixth of global greenhouse gas emissions. We need more than moral arguments against meat. We need a technological revolution in better, cleaner food.&nbsp;<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>1700</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[9fb0aa8e-aa3c-11e8-ae95-53716dbaaf1f]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL5080195614.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Can We Extend Human Lifespans to 150? </title>
+      <description>Some scientists see aging as a disease that can be cured—but what would immortality mean for humanity?&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Thu, 13 Sep 2018 10:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/9fa80802-aa3c-11e8-ae95-9bb29b8299e9/image/uploads_2F1536787050880-rn1uhqhc4rp-e7bb7edea234780133d17e92b828d70c_2F3000x3000_282_29.jpg"/>
+      <itunes:title>Can We Extend Human Lifespans to 150? </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:subtitle>Some scientists see aging as a disease that can be cured—but what would immortality mean for humanity?</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Some scientists see aging as a disease that can be cured—but what would immortality mean for humanity?<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>1721</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[9fa80802-aa3c-11e8-ae95-9bb29b8299e9]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL9909103108.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>How Will Self-Driving Cars Change the World?</title>
+      <description>Over the last 130 years, the automobile shaped the modern world—it redefined the city, filled the suburbs, and revved up pop culture. With autonomous technology, everything about our relationship to cars is about to change. Then what?&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Thu, 06 Sep 2018 10:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/ca4c891e-b150-11e8-9716-137685000a08/image/uploads_2F1536182080922-7zo3kwt3ixa-0799741e4d32a6e1d9ad01fe3ae2d695_2F3000x3000.jpg"/>
+      <itunes:title>How Will Self-Driving Cars Change the World?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:subtitle>With autonomous technology, everything about our relationship to cars is about to change. Then what?</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Over the last 130 years, the automobile shaped the modern world—it redefined the city, filled the suburbs, and revved up pop culture. With autonomous technology, everything about our relationship to cars is about to change. Then what?<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>1681</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[ca4c891e-b150-11e8-9716-137685000a08]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL5718615442.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Should We Dim the Skies to Save the World?</title>
+      <description>Climate change could be the most important problem facing humanity. To address it, scientists are thinking seriously about an idea that might sound like something from a sci-fi dystopia: Spraying the skies with sulfuric acid to partially block out the sun.&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Thu, 30 Aug 2018 10:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/9f9061ac-aa3c-11e8-ae95-3f7eef7ece9d/image/uploads_2F1535549256798-1m6ttib963y-03574a6b6843d9da87ca3f71da01de4e_2F3000x3000%2B_289_29.jpg"/>
+      <itunes:title>Should We Dim the Skies to Save the World?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:subtitle>Scientists are thinking seriously about an idea that might sound like something from a sci-fi dystopia.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Climate change could be the most important problem facing humanity. To address it, scientists are thinking seriously about an idea that might sound like something from a sci-fi dystopia: Spraying the skies with sulfuric acid to partially block out the sun.<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>1471</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[9f9061ac-aa3c-11e8-ae95-3f7eef7ece9d]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL5769496558.mp3?updated=1535584675" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Season 2 Trailer</title>
+      <description>Crazy/Genius is back with a new season featuring five ideas to save the world.&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Thu, 23 Aug 2018 10:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/82bb0856-a63c-11e8-b0a6-a309cc3e6dd4/image/uploads_2F1534965425816-f0t2zmdqhy-dc685ceedbdedbbba36af422ec8b6321_2F3000x3000%2B_288_29.jpg"/>
+      <itunes:title>Season 2 Trailer</itunes:title>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:subtitle>Crazy/Genius is back with a new season featuring five ideas to save the world.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Crazy/Genius is back with a new season featuring five ideas to save the world.<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>84</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[82bb0856-a63c-11e8-b0a6-a309cc3e6dd4]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL4403710050.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Should We Go to Mars?</title>
+      <description>It’s our best hope for life after earth—and a freezing, irradiated desert more than 30 million miles away. In our season finale, scientists and writers debate whether colonizing Mars is the most important mission in the history of the human race, or an absurd daydream.&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Thu, 28 Jun 2018 10:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/8c33fdd6-53ba-11e8-8473-5b5b1c2449b9/image/uploads_2F1530132013302-ag0h3fk5sxh-4130254219bd1d98cd1bfad50eade8ee_2F3000x3000%2B_287_29.jpg"/>
+      <itunes:title>Should We Go to Mars?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:subtitle>Scientists and writers discuss whether colonizing Mars is the most important mission in the history of the human race, or an absurd daydream.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[It’s our best hope for life after earth—and a freezing, irradiated desert more than 30 million miles away. In our season finale, scientists and writers debate whether colonizing Mars is the most important mission in the history of the human race, or an absurd daydream.<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>1409</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[8c33fdd6-53ba-11e8-8473-5b5b1c2449b9]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL4841487362.mp3?updated=1530132729" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Why Haven’t We Found Aliens?</title>
+      <description>“Where is everybody?” That’s the question physicist Enrico Fermi asked in 1950. Nearly 70 years later, we’re getting tantalizingly close to solving the riddle known as Fermi’s Paradox: If the universe is so large and so old, why haven't we found life on other planets?&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Thu, 21 Jun 2018 10:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/80be28a0-53ba-11e8-b07f-03e6caecb6ed/image/uploads_2F1529513746812-pmeno1cx9v-d55615a3948b40597a39cbc4bdb254a6_2F3000x3000%2B_286_29.jpg"/>
+      <itunes:title>Why Haven’t We Found Aliens?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:subtitle>If the universe is so large and so old, why haven't we found life on other planets?</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[“Where is everybody?” That’s the question physicist Enrico Fermi asked in 1950. Nearly 70 years later, we’re getting tantalizingly close to solving the riddle known as Fermi’s Paradox: If the universe is so large and so old, why haven't we found life on other planets?<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>1453</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[80be28a0-53ba-11e8-b07f-03e6caecb6ed]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL5131228474.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Who Killed Local News?</title>
+      <description>Since the Internet exploded journalism’s business revenue, local newsrooms around the country have been in free fall. We speak to The Denver Post's former managing editor and other experts to debate how to save the news—and, just possibly, democracy itself.&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Thu, 14 Jun 2018 10:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/6f1e9530-53ba-11e8-9627-6faca16b7ebf/image/uploads_2F1528922262801-78c9l0lxjug-42b404cab7ff75c464912e39527d314a_2F3000x3000%2B_285_29.jpg"/>
+      <itunes:title>Who Killed Local News?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:subtitle>How the Internet broke the news business—and how journalism might survive in a post-advertising world.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Since the Internet exploded journalism’s business revenue, local newsrooms around the country have been in free fall. We speak to The Denver Post's former managing editor and other experts to debate how to save the news—and, just possibly, democracy itself.<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>1446</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[6f1e9530-53ba-11e8-9627-6faca16b7ebf]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL9995421609.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Is Online Dating Destroying Romance? </title>
+      <description>Finding love on the Internet can be awkward, annoying, or downright scary. In this episode, two sociologists debate the merits of online dating and discuss their research on the history of romance in America.&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Thu, 07 Jun 2018 10:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/65850040-53ba-11e8-84ab-9b0c61f7bff1/image/uploads_2F1528292132987-5k6jkcnw4ya-66d44abef285873b2bed51b9ea431316_2F3000x3000%2B_284_29.jpg"/>
+      <itunes:title>Is Online Dating Destroying Romance? </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:subtitle>Two sociologists debate the merits of online dating and discuss their research on the history of romance in America.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Finding love on the Internet can be awkward, annoying, or downright scary. In this episode, two sociologists debate the merits of online dating and discuss their research on the history of romance in America.<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>1395</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[65850040-53ba-11e8-84ab-9b0c61f7bff1]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL6969375242.mp3?updated=1528322544" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Are Smartphones Ruining Our Lives?</title>
+      <description>Digital devices rob us of our attention, creativity, and, some studies show, our mental health. We ask psychologists and authors if smartphone and social media usage has triggered a national health crisis — and what we can do to free ourselves from the allure of modern technology.&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Thu, 31 May 2018 10:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/55a35794-53ba-11e8-ac3a-c7a4b7164688/image/uploads_2F1527726919691-mv6pgoak4n-e538916604cac8736bfb905ceb25577a_2F3000x3000_281_29.jpg"/>
+      <itunes:title>Are Smartphones Ruining Our Lives?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:subtitle>We ask psychologists and authors if smartphone and social media usage has triggered a national health crisis — and what we can do to free ourselves from the allure of modern technology.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Digital devices rob us of our attention, creativity, and, some studies show, our mental health. We ask psychologists and authors if smartphone and social media usage has triggered a national health crisis — and what we can do to free ourselves from the allure of modern technology.<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>1534</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[55a35794-53ba-11e8-ac3a-c7a4b7164688]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL2779046752.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Blockchain: The Next Internet, or the Next Beanie Baby?</title>
+      <description>Silicon Valley and Wall Street are obsessed with Bitcoin and its underlying technology called blockchain. Boosters say it'll fix everything from elections to shipping to identity theft. But what exactly is blockchain, how is it being used, and is the hype really worth it?&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Thu, 24 May 2018 10:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4a2e35c8-53ba-11e8-8471-77c698d58f0b/image/uploads_2F1527107624326-hgbsqh3x1co-70dddd9c14279e9648a1c718907852e7_2F3000x3000%2B_283_29.jpg"/>
+      <itunes:title>Blockchain: The Next Internet, or the Next Beanie Baby?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:subtitle>What exactly is blockchain, how is it being used, and is the hype really worth it?</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Silicon Valley and Wall Street are obsessed with Bitcoin and its underlying technology called blockchain. Boosters say it'll fix everything from elections to shipping to identity theft. But what exactly is blockchain, how is it being used, and is the hype really worth it?<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>1415</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[4a2e35c8-53ba-11e8-8471-77c698d58f0b]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL1003785652.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Should We Break Up Amazon?</title>
+      <description>Amazon might become the first trillion-dollar company in the history of the world. Has the Everything Store become a dangerous monopoly threatening the U.S. economy?&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Thu, 17 May 2018 10:00:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/3b190c5c-53ba-11e8-abee-db2e9cfaa713/image/uploads_2F1526508803970-to8s8ti2zqe-1552eeddb63ac22f18bc96db5b48b8c2_2F3000x3000.jpg"/>
+      <itunes:title>Should We Break Up Amazon?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:subtitle>Has the Everything Store become a dangerous monopoly threatening the U.S. economy?</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Amazon might become the first trillion-dollar company in the history of the world. Has the Everything Store become a dangerous monopoly threatening the U.S. economy?<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>1365</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[3b190c5c-53ba-11e8-abee-db2e9cfaa713]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL1367869657.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Why Can’t Facebook Tell the Truth? </title>
+      <description>In the last 18 months, Facebook has gone through one of the worst public relations crises of any major tech company. In this episode, two guests debate whether Facebook is fixable, or whether its business model is designed to sell us lies. Read more &lt;a href="https://www.theatlantic.com/technology/archive/2018/05/crazy-genius-facebook/560087/"&gt;here&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Thu, 10 May 2018 13:05:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/2fa80706-53ba-11e8-b73b-b3ef8a97753b/image/uploads_2F1525957722968-y24m7d5lg2b-e292a75b8babf794fd9442334c655ff5_2F3000x3000%2B_282_29.jpg"/>
+      <itunes:title>Why Can’t Facebook Tell the Truth? </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:subtitle>Is Facebook fixable, or is its business model designed to sell us lies?</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[In the last 18 months, Facebook has gone through one of the worst public relations crises of any major tech company. In this episode, two guests debate whether Facebook is fixable, or whether its business model is designed to sell us lies. Read more <a href="https://www.theatlantic.com/technology/archive/2018/05/crazy-genius-facebook/560087/">here</a>.<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>1377</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[2fa80706-53ba-11e8-b73b-b3ef8a97753b]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL3449057847.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Introducing Crazy/Genius</title>
+      <description>On Crazy/Genius, host Derek Thompson asks big questions about everything from online dating to blockchain to space exploration. Is technology moving us forward or backward? How did we get here — and where are we headed? Starting May 10.&lt;br&gt;&lt;br&gt;Music by Breakmaster Cylinder.&lt;br&gt;&lt;br&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;</description>
+      <pubDate>Tue, 01 May 2018 14:36:00 -0000</pubDate>
+      <itunes:author>The Atlantic</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/5b854f10-4d4c-11e8-88d3-f32d34da2e52/image/uploads_2F1525182576254-srp4uscmsi-0e973c020289ab8085d003684dc05709_2FCG-3000x3000.jpg"/>
+      <itunes:title>Introducing Crazy/Genius</itunes:title>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:subtitle>A new series from The Atlantic about technology and culture. Starting May 10.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[On Crazy/Genius, host Derek Thompson asks big questions about everything from online dating to blockchain to space exploration. Is technology moving us forward or backward? How did we get here — and where are we headed? Starting May 10.<br><br>Music by Breakmaster Cylinder.<br><br>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a>]]>
+      </itunes:summary>
+      <itunes:duration>129</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[5b854f10-4d4c-11e8-88d3-f32d34da2e52]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/ATL6750125326.mp3" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

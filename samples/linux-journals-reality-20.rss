@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xml:base="https://www.linuxjournal.com/podcast">
+  <channel>
+    <title>Linux Journal's Reality 2.0</title>
+    <itunes:author>Linux Journal</itunes:author>
+    <link>https://www.linuxjournal.com/podcast</link>
+    <atom:link href="https://www.linuxjournal.com/podcast" rel="self" type="application/rss+xml"/>
+    <description>Reality 2.0 by Linux Journal. Join Doc Searls and Katherine Druckman as they navigate the new digital world, covering topics related to Linux and Open Source, as well as digital privacy, security, and other current issues.</description>
+    <language>en</language>
+          <image>
+        <url>https://s3.us-east-2.amazonaws.com/lj-podcast/Reality2.0-01.jpg</url>
+        <title>Linux Journal's Reality 2.0</title>
+        <link>https://www.linuxjournal.com/podcast</link>
+      </image>
+              <itunes:category text="Technology">
+              </itunes:category>
+              <itunes:owner>
+        <itunes:name>Linux Journal</itunes:name>
+        <itunes:email>webmaster@linuxjournal.com</itunes:email>
+      </itunes:owner>
+        <itunes:explicit>no</itunes:explicit>
+    
+    <item>
+  <title>Episode 23: Advertisers: Don't Be Creepy</title>
+  <link>https://www.linuxjournal.com/podcast/episode-23-advertisers-dont-be-creepy</link>
+  <description>&lt;p&gt;Katherine Druckman and Doc Searls talk to &lt;em&gt;Linux Journal's &lt;/em&gt;Danna Vedder about the current state of advertising.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://lj-podcast.s3.us-east-2.amazonaws.com/LinuxJournal_Reality2.0_Episode23.ogg"&gt;Download ogg format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+  <pubDate>Thu, 18 Jul 2019 14:57:55 -0500</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-23-advertisers-dont-be-creepy</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2019-07/LinuxJournal_Reality2.0_Episode23.mp3" length="66737581" type="audio/mpeg"/>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to <em>Linux Journal's </em>Danna Vedder about the current state of advertising.</p>
+
+<ul><li><a href="https://lj-podcast.s3.us-east-2.amazonaws.com/LinuxJournal_Reality2.0_Episode23.ogg">Download ogg format</a></li>
+</ul></itunes:summary>
+    <itunes:title>Episode 23: Advertisers: Don't Be Creepy</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to <em>Linux Journal's </em>Danna Vedder about the current state of advertising.</p>
+
+<ul><li><a href="https://lj-podcast.s3.us-east-2.amazonaws.com/LinuxJournal_Reality2.0_Episode23.ogg">Download ogg format</a></li>
+</ul></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-23.jpg?itok=-UiBRUQ9" width="1400" height="1400" alt="" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Episode 22: Don't Panic, It's All About the Kernel</title>
+  <link>https://www.linuxjournal.com/podcast/episode-22-dont-panic-its-all-about-kernel</link>
+  <description>&lt;p&gt;Katherine Druckman talks to &lt;em&gt;Linux Journal&lt;/em&gt; Editor at Large, Petros Koutoupis, about building your own kernel, kernel panics, and other projects.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://lj-podcast.s3.us-east-2.amazonaws.com/LinuxJournal_Reality2.0_Episode22.ogg"&gt;Download in ogg format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Links mentioned:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.linuxjournal.com/content/kernel-issue"&gt;https://www.linuxjournal.com/content/kernel-issue&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+  <pubDate>Tue, 02 Jul 2019 17:06:16 -0500</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-22-dont-panic-its-all-about-kernel</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2019-07/LinuxJournal_Reality2.0_Episode22.mp3" length="31053261" type="audio/mpeg"/>
+    <itunes:summary><p>Katherine Druckman talks to <em>Linux Journal</em> Editor at Large, Petros Koutoupis, about building your own kernel, kernel panics, and other projects.</p>
+
+<ul><li><a href="https://lj-podcast.s3.us-east-2.amazonaws.com/LinuxJournal_Reality2.0_Episode22.ogg">Download in ogg format</a></li>
+</ul><p>Links mentioned:</p>
+
+<ul><li><a href="https://www.linuxjournal.com/content/kernel-issue">https://www.linuxjournal.com/content/kernel-issue</a></li>
+</ul></itunes:summary>
+    <itunes:title>Episode 22: Don't Panic, It's All About the Kernel</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Katherine Druckman talks to <em>Linux Journal</em> Editor at Large, Petros Koutoupis, about building your own kernel, kernel panics, and other projects.</p>
+
+<ul><li><a href="https://lj-podcast.s3.us-east-2.amazonaws.com/LinuxJournal_Reality2.0_Episode22.ogg">Download in ogg format</a></li>
+</ul><p>Links mentioned:</p>
+
+<ul><li><a href="https://www.linuxjournal.com/content/kernel-issue">https://www.linuxjournal.com/content/kernel-issue</a></li>
+</ul></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-22.jpg?itok=evZCPdbS" width="1400" height="1400" alt="Episode 22: Don't Panic, It's All About the Kernel cover" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Episode 21: From Mac to Linux</title>
+  <link>https://www.linuxjournal.com/podcast/episode-21-mac-linux</link>
+  <description>&lt;p&gt;Katherine Druckman and Doc Searls talk to &lt;em&gt;Linux Journal&lt;/em&gt; Editor at Large, Petros Koutoupis, about moving from Mac to Linux.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://lj-podcast.s3.us-east-2.amazonaws.com/LinuxJournal_Reality2.0_Episode21.ogg"&gt;Download ogg format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Links Mentioned:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://wiki.gnustep.org/index.php/Category:Applications"&gt;http://wiki.gnustep.org/index.php/Category:Applications&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://wiki.gnustep.org/index.php/Application_wish_list"&gt;http://wiki.gnustep.org/index.php/Application_wish_list&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.linuxjournal.com/content/linux-laptop-buyers-guide"&gt;https://www.linuxjournal.com/content/linux-laptop-buyers-guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+  <pubDate>Thu, 20 Jun 2019 15:58:20 -0500</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-21-mac-linux</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2019-06/LinuxJournal_Reality2.0_Episode21.mp3" length="37145814" type="audio/mpeg"/>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to <em>Linux Journal</em> Editor at Large, Petros Koutoupis, about moving from Mac to Linux.</p>
+
+<ul><li><a href="https://lj-podcast.s3.us-east-2.amazonaws.com/LinuxJournal_Reality2.0_Episode21.ogg">Download ogg format</a></li>
+</ul><p>Links Mentioned:</p>
+
+<ul><li><a href="http://wiki.gnustep.org/index.php/Category:Applications">http://wiki.gnustep.org/index.php/Category:Applications</a></li>
+	<li><a href="http://wiki.gnustep.org/index.php/Application_wish_list">http://wiki.gnustep.org/index.php/Application_wish_list</a></li>
+	<li><a href="https://www.linuxjournal.com/content/linux-laptop-buyers-guide">https://www.linuxjournal.com/content/linux-laptop-buyers-guide</a></li>
+</ul></itunes:summary>
+    <itunes:title>Episode 21: From Mac to Linux</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to <em>Linux Journal</em> Editor at Large, Petros Koutoupis, about moving from Mac to Linux.</p>
+
+<ul><li><a href="https://lj-podcast.s3.us-east-2.amazonaws.com/LinuxJournal_Reality2.0_Episode21.ogg">Download ogg format</a></li>
+</ul><p>Links Mentioned:</p>
+
+<ul><li><a href="http://wiki.gnustep.org/index.php/Category:Applications">http://wiki.gnustep.org/index.php/Category:Applications</a></li>
+	<li><a href="http://wiki.gnustep.org/index.php/Application_wish_list">http://wiki.gnustep.org/index.php/Application_wish_list</a></li>
+	<li><a href="https://www.linuxjournal.com/content/linux-laptop-buyers-guide">https://www.linuxjournal.com/content/linux-laptop-buyers-guide</a></li>
+</ul></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-21.jpg?itok=DogbE7e2" width="1400" height="1400" alt="Linux Journal Reality 2.0 Episode 21: From Mac to Linux Cover" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Episode 20: Advertising is Broken, but Linux Isn't.</title>
+  <link>https://www.linuxjournal.com/podcast/episode-20-advertising-broken-linux-isnt</link>
+  <description>&lt;p&gt;Katherine Druckman and Doc Searls talk to Don Marti, of Mozilla and formerly of &lt;em&gt;Linux Journal,&lt;/em&gt; about ad technology, privacy, and the Linux community.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://lj-podcast.s3.us-east-2.amazonaws.com/LinuxJournal_Reality2.0_Episode20.ogg"&gt;Download ogg format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Links Mentioned:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.globalconsentmanager.com/"&gt;http://www.globalconsentmanager.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+  <pubDate>Fri, 07 Jun 2019 10:51:33 -0500</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-20-advertising-broken-linux-isnt</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2019-06/LinuxJournal_Reality2.0_Episode20.mp3" length="51337660" type="audio/mpeg"/>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to Don Marti, of Mozilla and formerly of <em>Linux Journal,</em> about ad technology, privacy, and the Linux community.</p>
+
+<ul><li><a href="https://lj-podcast.s3.us-east-2.amazonaws.com/LinuxJournal_Reality2.0_Episode20.ogg">Download ogg format</a></li>
+</ul><p>Links Mentioned:</p>
+
+<ul><li><a href="http://www.globalconsentmanager.com/">http://www.globalconsentmanager.com/</a></li>
+</ul></itunes:summary>
+    <itunes:title>Episode 20: Advertising is Broken, but Linux Isn't.</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to Don Marti, of Mozilla and formerly of <em>Linux Journal,</em> about ad technology, privacy, and the Linux community.</p>
+
+<ul><li><a href="https://lj-podcast.s3.us-east-2.amazonaws.com/LinuxJournal_Reality2.0_Episode20.ogg">Download ogg format</a></li>
+</ul><p>Links Mentioned:</p>
+
+<ul><li><a href="http://www.globalconsentmanager.com/">http://www.globalconsentmanager.com/</a></li>
+</ul></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-20.jpg?itok=GtIhD_SO" width="1400" height="1400" alt="Reality 2.0 - Episode 20: Advertising is Broken, but Linux Isn't." typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Episode 19: Democratizing Cybersecurity</title>
+  <link>https://www.linuxjournal.com/podcast/episode-19-democratizing-cybersecurity</link>
+  <description>&lt;p&gt;Katherine Druckman and Doc Searls talk to Alex Gounares of Polyverse Linux about Cybersecurity for everyone.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode19.ogg"&gt;Download in ogg format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+  <pubDate>Fri, 24 May 2019 09:18:16 -0500</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-19-democratizing-cybersecurity</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2019-05/LinuxJournal_Reality2.0_Episode19.mp3" length="50371438" type="audio/mpeg"/>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to Alex Gounares of Polyverse Linux about Cybersecurity for everyone.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode19.ogg">Download in ogg format</a></li>
+</ul></itunes:summary>
+    <itunes:title>Episode 19: Democratizing Cybersecurity</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to Alex Gounares of Polyverse Linux about Cybersecurity for everyone.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode19.ogg">Download in ogg format</a></li>
+</ul></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-19_1.jpg?itok=UsxOhWGS" width="1400" height="1400" alt="Reality 2.0 Podcast - Episode 19: Democratizing Cybersecurity cover" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Episode 18: KidOYO</title>
+  <link>https://www.linuxjournal.com/podcast/episode-18-kidoyo</link>
+  <description>&lt;p&gt;Doc Searls talks to Zhen, Devon and Melora Lofretto of KidOYO and Doctor Michael Nagler, superintendent of the Mineola Public School system in Mineola 
+Long Island.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode18.ogg"&gt;Download OGG format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Links Mentioned:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.linuxjournal.com/content/kids-take-over-0"&gt;The Kids Take Over&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;</description>
+  <pubDate>Mon, 29 Apr 2019 14:43:05 -0500</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-18-kidoyo</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2019-04/LinuxJournal_Reality2.0_Episode18_0.mp3" length="80796592" type="audio/mpeg"/>
+    <itunes:summary><p>Doc Searls talks to Zhen, Devon and Melora Lofretto of KidOYO and Doctor Michael Nagler, superintendent of the Mineola Public School system in Mineola 
+Long Island.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode18.ogg">Download OGG format</a></li>
+</ul><p>Links Mentioned:</p>
+
+<ul><li><a href="https://www.linuxjournal.com/content/kids-take-over-0">The Kids Take Over</a></li>
+</ul><p> </p></itunes:summary>
+    <itunes:title>Episode 18: KidOYO</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Doc Searls talks to Zhen, Devon and Melora Lofretto of KidOYO and Doctor Michael Nagler, superintendent of the Mineola Public School system in Mineola 
+Long Island.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode18.ogg">Download OGG format</a></li>
+</ul><p>Links Mentioned:</p>
+
+<ul><li><a href="https://www.linuxjournal.com/content/kids-take-over-0">The Kids Take Over</a></li>
+</ul><p> </p></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-18.jpg?itok=MhWU1yyF" width="1400" height="1400" alt="Episode 18: KidOYO cover image" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Episode 17: Be Afraid. Be Very Afraid.</title>
+  <link>https://www.linuxjournal.com/podcast/episode-17-be-afraid-be-very-afraid</link>
+  <description>&lt;p&gt;Katherine Druckman and Doc Searls talk to Bob Erdman, Security Product Manager for Helpsystems about Linux security threats.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode17.ogg"&gt;Download ogg format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Links mentioned:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.helpsystems.com/cta/free-network-security-vulnerability-scan"&gt;https://www.helpsystems.com/cta/free-network-security-vulnerability-scan&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.helpsystems.com/cta/intermapper-free-version"&gt;https://www.helpsystems.com/cta/intermapper-free-version&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.helpsystems.com/cta/scan-your-system"&gt;https://www.helpsystems.com/cta/scan-your-system&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+  <pubDate>Mon, 25 Mar 2019 12:59:03 -0500</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-17-be-afraid-be-very-afraid</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2019-03/LinuxJournal_Reality2.0_Episode17.mp3" length="33558742" type="audio/mpeg"/>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to Bob Erdman, Security Product Manager for Helpsystems about Linux security threats.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode17.ogg">Download ogg format</a></li>
+</ul><p>Links mentioned:</p>
+
+<ul><li><a href="https://www.helpsystems.com/cta/free-network-security-vulnerability-scan">https://www.helpsystems.com/cta/free-network-security-vulnerability-scan</a></li>
+	<li><a href="https://www.helpsystems.com/cta/intermapper-free-version">https://www.helpsystems.com/cta/intermapper-free-version</a></li>
+	<li><a href="https://www.helpsystems.com/cta/scan-your-system">https://www.helpsystems.com/cta/scan-your-system</a></li>
+</ul></itunes:summary>
+    <itunes:title>Episode 17: Be Afraid. Be Very Afraid.</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to Bob Erdman, Security Product Manager for Helpsystems about Linux security threats.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode17.ogg">Download ogg format</a></li>
+</ul><p>Links mentioned:</p>
+
+<ul><li><a href="https://www.helpsystems.com/cta/free-network-security-vulnerability-scan">https://www.helpsystems.com/cta/free-network-security-vulnerability-scan</a></li>
+	<li><a href="https://www.helpsystems.com/cta/intermapper-free-version">https://www.helpsystems.com/cta/intermapper-free-version</a></li>
+	<li><a href="https://www.helpsystems.com/cta/scan-your-system">https://www.helpsystems.com/cta/scan-your-system</a></li>
+</ul></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-17.jpg?itok=FY1_AjwX" width="1400" height="1400" alt="Episode 17: Be Afraid. Be Very Afraid. cover image" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Episode 16: Digital Stalking</title>
+  <link>https://www.linuxjournal.com/podcast/episode-16-digital-stalking</link>
+  <description>&lt;p&gt;Katherine Druckman and Doc Searls talk about digital stalking, journalism, clickbait, and using ad targeting for evil.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode16.ogg"&gt;Download in ogg format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Links mentioned:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://blogs.harvard.edu/doc/2019/02/27/spinner/"&gt;The Spinner’s hack on journalism&lt;/a&gt;&lt;/p&gt;</description>
+  <pubDate>Mon, 11 Mar 2019 13:05:09 -0500</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-16-digital-stalking</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2019-03/LinuxJournal_Reality2.0_Episode16.mp3" length="25802233" type="audio/mpeg"/>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk about digital stalking, journalism, clickbait, and using ad targeting for evil.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode16.ogg">Download in ogg format</a></li>
+</ul><p>Links mentioned:</p>
+
+<p><a href="http://blogs.harvard.edu/doc/2019/02/27/spinner/">The Spinner’s hack on journalism</a></p></itunes:summary>
+    <itunes:title>Episode 16: Digital Stalking</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk about digital stalking, journalism, clickbait, and using ad targeting for evil.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode16.ogg">Download in ogg format</a></li>
+</ul><p>Links mentioned:</p>
+
+<p><a href="http://blogs.harvard.edu/doc/2019/02/27/spinner/">The Spinner’s hack on journalism</a></p></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-16.jpg?itok=rJvbQ_iY" width="1400" height="1400" alt="" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Episode 15: Learning Python</title>
+  <link>https://www.linuxjournal.com/podcast/episode-15-learning-python</link>
+  <description>&lt;p&gt;Katherine Druckman and Doc Searls talk to Linux Journal Senior Columnist, Reuven Lerner, about learning new languages such as Python.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode15.ogg"&gt;Download in ogg format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+  <pubDate>Mon, 11 Feb 2019 11:02:00 -0600</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-15-learning-python</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2019-02/LinuxJournal_Reality2.0_Episode15.mp3" length="25743362" type="audio/mpeg"/>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to Linux Journal Senior Columnist, Reuven Lerner, about learning new languages such as Python.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode15.ogg">Download in ogg format</a></li>
+</ul></itunes:summary>
+    <itunes:title>Episode 15: Learning Python</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to Linux Journal Senior Columnist, Reuven Lerner, about learning new languages such as Python.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode15.ogg">Download in ogg format</a></li>
+</ul></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-15.jpg?itok=-BAhijpl" width="1400" height="1400" alt="" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Episode 14: Digital Sovereignty</title>
+  <link>https://www.linuxjournal.com/podcast/episode-13-digital-sovereignty</link>
+  <description>&lt;p&gt;Katherine Druckman and Doc Searls talk to Elizabeth Renieris about digital identity, ethics, boiled frogs, and horses with lasers.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode14.ogg"&gt;Download ogg format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+  <pubDate>Mon, 28 Jan 2019 13:21:39 -0600</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-13-digital-sovereignty</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2019-01/LinuxJournal_Reality2.0_Episode14.mp3" length="27692220" type="audio/mpeg"/>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to Elizabeth Renieris about digital identity, ethics, boiled frogs, and horses with lasers.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode14.ogg">Download ogg format</a></li>
+</ul></itunes:summary>
+    <itunes:title>Episode 14: Digital Sovereignty</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to Elizabeth Renieris about digital identity, ethics, boiled frogs, and horses with lasers.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode14.ogg">Download ogg format</a></li>
+</ul></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-14.jpg?itok=fhm-d2vt" width="1400" height="1400" alt="Episode 14: Digital Sovereignty" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Episode 13: Surveillance Marketing</title>
+  <link>https://www.linuxjournal.com/podcast/episode-13-surveillance-marketing</link>
+  <description>&lt;p&gt;Doc Searls and Katherine Druckman talk to &lt;a href="https://twitter.com/acfou"&gt;Dr. Augustine Fou&lt;/a&gt; about surveillance marketing, ad tech, and privacy.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode13.ogg"&gt;Download ogg format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Links mentioned:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://blogs.harvard.edu/vrm/2016/08/14/if-it-werent-for-retargeting-we-might-not-have-ad-blocking/" title="If it weren’t for retargeting, we might not have ad blocking"&gt;If it weren’t for retargeting, we might not have ad blocking&lt;/a&gt;&lt;/p&gt;</description>
+  <pubDate>Fri, 18 Jan 2019 12:53:22 -0600</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-13-surveillance-marketing</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2019-01/LinuxJournal_Reality2.0_Episode13.mp3" length="41168459" type="audio/mpeg"/>
+    <itunes:summary><p>Doc Searls and Katherine Druckman talk to <a href="https://twitter.com/acfou">Dr. Augustine Fou</a> about surveillance marketing, ad tech, and privacy.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode13.ogg">Download ogg format</a></li>
+</ul><p>Links mentioned:</p>
+
+<p><a href="https://blogs.harvard.edu/vrm/2016/08/14/if-it-werent-for-retargeting-we-might-not-have-ad-blocking/" title="If it weren’t for retargeting, we might not have ad blocking">If it weren’t for retargeting, we might not have ad blocking</a></p></itunes:summary>
+    <itunes:title>Episode 13: Surveillance Marketing</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Doc Searls and Katherine Druckman talk to <a href="https://twitter.com/acfou">Dr. Augustine Fou</a> about surveillance marketing, ad tech, and privacy.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode13.ogg">Download ogg format</a></li>
+</ul><p>Links mentioned:</p>
+
+<p><a href="https://blogs.harvard.edu/vrm/2016/08/14/if-it-werent-for-retargeting-we-might-not-have-ad-blocking/" title="If it weren’t for retargeting, we might not have ad blocking">If it weren’t for retargeting, we might not have ad blocking</a></p></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-13.jpg?itok=feG5ELsc" width="1400" height="1400" alt="" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Episode 12: Vendor Lock-in</title>
+  <link>https://www.linuxjournal.com/podcast/episode-12-vendor-lock</link>
+  <description>&lt;p&gt;Katherine Druckman and Doc Searls talk to &lt;em&gt;Linux Journal&lt;/em&gt;'s Technical Editor, Kyle Rankin, about vendor lock-in.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode12.ogg"&gt;Download ogg format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Links mentioned:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.linuxjournal.com/content/lessons-vendor-lock-shaving"&gt;Lessons in Vendor Lock-in: Shaving&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.linuxjournal.com/content/lessons-vendor-lock-messaging" hreflang="en"&gt;Lessons in Vendor Lock-in: Messaging&lt;/a&gt;&lt;/p&gt;</description>
+  <pubDate>Fri, 11 Jan 2019 11:05:39 -0600</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-12-vendor-lock</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2019-01/LinuxJournal_Reality2.0_Episode12.mp3" length="23795235" type="audio/mpeg"/>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to <em>Linux Journal</em>'s Technical Editor, Kyle Rankin, about vendor lock-in.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode12.ogg">Download ogg format</a></li>
+</ul><p>Links mentioned:</p>
+
+<p><a href="https://www.linuxjournal.com/content/lessons-vendor-lock-shaving">Lessons in Vendor Lock-in: Shaving</a></p>
+
+<p><a href="https://www.linuxjournal.com/content/lessons-vendor-lock-messaging" hreflang="en">Lessons in Vendor Lock-in: Messaging</a></p></itunes:summary>
+    <itunes:title>Episode 12: Vendor Lock-in</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to <em>Linux Journal</em>'s Technical Editor, Kyle Rankin, about vendor lock-in.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode12.ogg">Download ogg format</a></li>
+</ul><p>Links mentioned:</p>
+
+<p><a href="https://www.linuxjournal.com/content/lessons-vendor-lock-shaving">Lessons in Vendor Lock-in: Shaving</a></p>
+
+<p><a href="https://www.linuxjournal.com/content/lessons-vendor-lock-messaging" hreflang="en">Lessons in Vendor Lock-in: Messaging</a></p></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-12.jpg?itok=pF7O7Ayq" width="1400" height="1400" alt="Episode 12: Vendor Lock-in cover" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Episode 11: Moving the Chairs</title>
+  <link>https://www.linuxjournal.com/podcast/episode-11-moving-chairs</link>
+  <description>&lt;p&gt;Katherine Druckman and Doc Searls talk to Petros Koutoupis about his Deep Dive articles, storage, blockchain, and moving chairs.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode11.ogg"&gt;Download ogg format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Links mentioned:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.linuxjournal.com/content/high-performance-computing-issue"&gt;The December issue of Linux Journal&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.linuxjournal.com/content/blockchain-part-i-introduction-and-cryptocurrency"&gt;Blockchain, Part I: Introduction and Cryptocurrency&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+  <pubDate>Thu, 03 Jan 2019 12:15:06 -0600</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-11-moving-chairs</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2019-01/LinuxJournal_Reality2.0_Episode11.mp3" length="27755940" type="audio/mpeg"/>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to Petros Koutoupis about his Deep Dive articles, storage, blockchain, and moving chairs.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode11.ogg">Download ogg format</a></li>
+</ul><p>Links mentioned:</p>
+
+<ul><li><a href="https://www.linuxjournal.com/content/high-performance-computing-issue">The December issue of Linux Journal</a></li>
+	<li><a href="https://www.linuxjournal.com/content/blockchain-part-i-introduction-and-cryptocurrency">Blockchain, Part I: Introduction and Cryptocurrency</a></li>
+</ul></itunes:summary>
+    <itunes:title>Episode 11: Moving the Chairs</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to Petros Koutoupis about his Deep Dive articles, storage, blockchain, and moving chairs.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode11.ogg">Download ogg format</a></li>
+</ul><p>Links mentioned:</p>
+
+<ul><li><a href="https://www.linuxjournal.com/content/high-performance-computing-issue">The December issue of Linux Journal</a></li>
+	<li><a href="https://www.linuxjournal.com/content/blockchain-part-i-introduction-and-cryptocurrency">Blockchain, Part I: Introduction and Cryptocurrency</a></li>
+</ul></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-11.jpg?itok=FYdmCEki" width="1400" height="1400" alt="Episode 11: Moving the Chairs cover image" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Episode 10: Hydrants and Sirens</title>
+  <link>https://www.linuxjournal.com/podcast/episode-10-hydrants-and-sirens</link>
+  <description>&lt;p&gt;Katherine Druckman and Doc Searls talk to David Egts (&lt;a href="https://twitter.com/davidegts"&gt;@davidegts&lt;/a&gt;), Chief Technologist North America for the Public Sector at Red Hat (&lt;a href="https://twitter.com/redhatgov"&gt;@redhatgov&lt;/a&gt;) about open source enthusiasm.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode10.ogg"&gt;Download ogg format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Links Mentioned: &lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.linuxjournal.com/content/time-net-giants-pay-fairly-open-source-which-they-depend" hreflang="en"&gt;Time for Net Giants to Pay Fairly for the Open Source on Which They Depend&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.codeforamerica.org/past-projects/adopt-a-hydrant"&gt;Adopt-a-Hydrant&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+  <pubDate>Mon, 17 Dec 2018 11:14:50 -0600</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-10-hydrants-and-sirens</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2018-12/LinuxJournal_Reality2.0_Episode10.mp3" length="29585160" type="audio/mpeg"/>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to David Egts (<a href="https://twitter.com/davidegts">@davidegts</a>), Chief Technologist North America for the Public Sector at Red Hat (<a href="https://twitter.com/redhatgov">@redhatgov</a>) about open source enthusiasm.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode10.ogg">Download ogg format</a></li>
+</ul><p>Links Mentioned: </p>
+
+<ul><li><a href="https://www.linuxjournal.com/content/time-net-giants-pay-fairly-open-source-which-they-depend" hreflang="en">Time for Net Giants to Pay Fairly for the Open Source on Which They Depend</a></li>
+	<li><a href="https://www.codeforamerica.org/past-projects/adopt-a-hydrant">Adopt-a-Hydrant</a></li>
+</ul></itunes:summary>
+    <itunes:title>Episode 10: Hydrants and Sirens</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to David Egts (<a href="https://twitter.com/davidegts">@davidegts</a>), Chief Technologist North America for the Public Sector at Red Hat (<a href="https://twitter.com/redhatgov">@redhatgov</a>) about open source enthusiasm.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode10.ogg">Download ogg format</a></li>
+</ul><p>Links Mentioned: </p>
+
+<ul><li><a href="https://www.linuxjournal.com/content/time-net-giants-pay-fairly-open-source-which-they-depend" hreflang="en">Time for Net Giants to Pay Fairly for the Open Source on Which They Depend</a></li>
+	<li><a href="https://www.codeforamerica.org/past-projects/adopt-a-hydrant">Adopt-a-Hydrant</a></li>
+</ul></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-10.jpg?itok=_PeIp0pc" width="1400" height="1400" alt="Episode 10: Hydrants and Sirens cover" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Episode 9: Humanity, Magic, and Glitter</title>
+  <link>https://www.linuxjournal.com/podcast/episode-9-humanity-magic-and-glitter</link>
+  <description>&lt;p&gt;Katherine Druckman and Doc Searls talk to Bryan Lunduke about Linux and humanity.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode9.ogg"&gt;Download ogg file&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+  <pubDate>Fri, 07 Dec 2018 10:28:26 -0600</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-9-humanity-magic-and-glitter</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2018-12/LinuxJournal_Reality2.0_Episode9.mp3" length="42462409" type="audio/mpeg"/>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to Bryan Lunduke about Linux and humanity.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode9.ogg">Download ogg file</a></li>
+</ul></itunes:summary>
+    <itunes:title>Episode 9: Humanity, Magic, and Glitter</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to Bryan Lunduke about Linux and humanity.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode9.ogg">Download ogg file</a></li>
+</ul></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-9.jpg?itok=80BFQPmI" width="1400" height="1400" alt="" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Episode 8: Nostalgia, Security, and Shawn</title>
+  <link>https://www.linuxjournal.com/podcast/episode-8-nostalgia-security-and-shawn</link>
+  <description>&lt;p&gt;Links Mentioned: &lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=b9du5U6Nk4U"&gt;https://www.youtube.com/watch?v=b9du5U6Nk4U&lt;/a&gt;
+&lt;a href="https://www.linuxjournal.com/video/review-asus-eee-pc"&gt;https://www.linuxjournal.com/video/review-asus-eee-pc&lt;/a&gt;
+&lt;a href="https://www.linuxjournal.com/video/open-video-hp"&gt;https://www.linuxjournal.com/video/open-video-hp&lt;/a&gt;
+&lt;a href="https://www.linuxjournal.com/video/review-hp-2133-mini-note"&gt;https://www.linuxjournal.com/video/review-hp-2133-mini-note&lt;/a&gt;
+&lt;a href="https://xkcd.com/936/"&gt;https://xkcd.com/936/&lt;/a&gt;
+&lt;a href="https://motherboard.vice.com/en_us/article/5984zn/listen-to-sim-jacking-account-ransom-instagram-email-tmobile"&gt;https://motherboard.vice.com/en_us/article/5984zn/listen-to-sim-jacking-account-ransom-instagram-email-tmobile&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode8.ogg"&gt;Download ogg format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+  <pubDate>Tue, 27 Nov 2018 23:14:44 -0600</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-8-nostalgia-security-and-shawn</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2018-11/LinuxJournal_Reality2.0_Episode8.mp3" length="25470296" type="audio/mpeg"/>
+    <itunes:summary><p>Links Mentioned: </p>
+
+<p><a href="https://www.youtube.com/watch?v=b9du5U6Nk4U">https://www.youtube.com/watch?v=b9du5U6Nk4U</a>
+<a href="https://www.linuxjournal.com/video/review-asus-eee-pc">https://www.linuxjournal.com/video/review-asus-eee-pc</a>
+<a href="https://www.linuxjournal.com/video/open-video-hp">https://www.linuxjournal.com/video/open-video-hp</a>
+<a href="https://www.linuxjournal.com/video/review-hp-2133-mini-note">https://www.linuxjournal.com/video/review-hp-2133-mini-note</a>
+<a href="https://xkcd.com/936/">https://xkcd.com/936/</a>
+<a href="https://motherboard.vice.com/en_us/article/5984zn/listen-to-sim-jacking-account-ransom-instagram-email-tmobile">https://motherboard.vice.com/en_us/article/5984zn/listen-to-sim-jacking-account-ransom-instagram-email-tmobile</a></p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode8.ogg">Download ogg format</a></li>
+</ul></itunes:summary>
+    <itunes:title>Episode 8: Nostalgia, Security, and Shawn</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Links Mentioned: </p>
+
+<p><a href="https://www.youtube.com/watch?v=b9du5U6Nk4U">https://www.youtube.com/watch?v=b9du5U6Nk4U</a>
+<a href="https://www.linuxjournal.com/video/review-asus-eee-pc">https://www.linuxjournal.com/video/review-asus-eee-pc</a>
+<a href="https://www.linuxjournal.com/video/open-video-hp">https://www.linuxjournal.com/video/open-video-hp</a>
+<a href="https://www.linuxjournal.com/video/review-hp-2133-mini-note">https://www.linuxjournal.com/video/review-hp-2133-mini-note</a>
+<a href="https://xkcd.com/936/">https://xkcd.com/936/</a>
+<a href="https://motherboard.vice.com/en_us/article/5984zn/listen-to-sim-jacking-account-ransom-instagram-email-tmobile">https://motherboard.vice.com/en_us/article/5984zn/listen-to-sim-jacking-account-ransom-instagram-email-tmobile</a></p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode8.ogg">Download ogg format</a></li>
+</ul></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-8.jpg?itok=C7h5Mq07" width="1400" height="1400" alt="" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Reality2.0 - Episode 7: Sounding Alarms</title>
+  <link>https://www.linuxjournal.com/podcast/reality20-episode-7-sounding-alarms</link>
+  <description>&lt;p&gt;Katherine Druckman and Doc Searls talk to Kyle Rankin about about sounding alarms in various communities.&lt;/p&gt;
+
+&lt;p&gt;Links Mentioned:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.gnu.org/philosophy/free-sw.html"&gt;The Four Essential Freedoms&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://coralproject.net/"&gt;The Coral Project&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode7.ogg"&gt;Download ogg Format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+  <pubDate>Tue, 13 Nov 2018 23:31:37 -0600</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/reality20-episode-7-sounding-alarms</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2018-11/LinuxJournal_Reality2.0_Episode7.mp3" length="24766863" type="audio/mpeg"/>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to Kyle Rankin about about sounding alarms in various communities.</p>
+
+<p>Links Mentioned:</p>
+
+<p><a href="https://www.gnu.org/philosophy/free-sw.html">The Four Essential Freedoms</a></p>
+
+<p><a href="https://coralproject.net/">The Coral Project</a></p>
+
+<p> </p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode7.ogg">Download ogg Format</a></li>
+</ul></itunes:summary>
+    <itunes:title>Reality2.0 - Episode 7: Sounding Alarms</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Katherine Druckman and Doc Searls talk to Kyle Rankin about about sounding alarms in various communities.</p>
+
+<p>Links Mentioned:</p>
+
+<p><a href="https://www.gnu.org/philosophy/free-sw.html">The Four Essential Freedoms</a></p>
+
+<p><a href="https://coralproject.net/">The Coral Project</a></p>
+
+<p> </p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode7.ogg">Download ogg Format</a></li>
+</ul></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-7.jpg?itok=KaDjZgNw" width="1400" height="1400" alt="Episode 7: Sounding Alarms cover" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Episode 6: Conferences and Community</title>
+  <link>https://www.linuxjournal.com/podcast/episode-6-conferences-and-community</link>
+  <description>&lt;p&gt;Katherine Druckman talks to Doc Searls about Freenode Live, conferences, and the Linux community.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode6.ogg"&gt;Download ogg format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Links mentioned:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=17JowhH57kg"&gt;freenode &lt;/a&gt;&lt;a href="https://www.youtube.com/results?search_query=%23live"&gt;#live&lt;/a&gt;&lt;a href="https://www.youtube.com/watch?v=17JowhH57kg"&gt; 2018 - Kyle Rankin - The death and resurrection of Linux Journal&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=oOFuQLTVdZc"&gt;freenode &lt;/a&gt;&lt;a href="https://www.youtube.com/results?search_query=%23live"&gt;#live&lt;/a&gt;&lt;a href="https://www.youtube.com/watch?v=oOFuQLTVdZc"&gt; 2018 - Doc Searls and Simon Phipps - In Conversation&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.linuxjournal.com/content/time-net-giants-pay-fairly-open-source-which-they-depend"&gt;Time for Net Giants to Pay Fairly for the Open Source on Which They Depend by Glyn Moody&lt;/a&gt;&lt;/p&gt;</description>
+  <pubDate>Wed, 07 Nov 2018 10:04:29 -0600</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-6-conferences-and-community</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2018-11/LinuxJournal_Reality2.0_Episode6.mp3" length="23199589" type="audio/mpeg"/>
+    <itunes:summary><p>Katherine Druckman talks to Doc Searls about Freenode Live, conferences, and the Linux community.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode6.ogg">Download ogg format</a></li>
+</ul><p>Links mentioned:</p>
+
+<p><a href="https://www.youtube.com/watch?v=17JowhH57kg">freenode </a><a href="https://www.youtube.com/results?search_query=%23live">#live</a><a href="https://www.youtube.com/watch?v=17JowhH57kg"> 2018 - Kyle Rankin - The death and resurrection of Linux Journal</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=oOFuQLTVdZc">freenode </a><a href="https://www.youtube.com/results?search_query=%23live">#live</a><a href="https://www.youtube.com/watch?v=oOFuQLTVdZc"> 2018 - Doc Searls and Simon Phipps - In Conversation</a> </p>
+
+<p><a href="https://www.linuxjournal.com/content/time-net-giants-pay-fairly-open-source-which-they-depend">Time for Net Giants to Pay Fairly for the Open Source on Which They Depend by Glyn Moody</a></p></itunes:summary>
+    <itunes:title>Episode 6: Conferences and Community</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Katherine Druckman talks to Doc Searls about Freenode Live, conferences, and the Linux community.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode6.ogg">Download ogg format</a></li>
+</ul><p>Links mentioned:</p>
+
+<p><a href="https://www.youtube.com/watch?v=17JowhH57kg">freenode </a><a href="https://www.youtube.com/results?search_query=%23live">#live</a><a href="https://www.youtube.com/watch?v=17JowhH57kg"> 2018 - Kyle Rankin - The death and resurrection of Linux Journal</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=oOFuQLTVdZc">freenode </a><a href="https://www.youtube.com/results?search_query=%23live">#live</a><a href="https://www.youtube.com/watch?v=oOFuQLTVdZc"> 2018 - Doc Searls and Simon Phipps - In Conversation</a> </p>
+
+<p><a href="https://www.linuxjournal.com/content/time-net-giants-pay-fairly-open-source-which-they-depend">Time for Net Giants to Pay Fairly for the Open Source on Which They Depend by Glyn Moody</a></p></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-6.jpg?itok=3dFySA4S" width="1400" height="1400" alt="Episode 6: Conferences and Community cover" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Episode 5: Linux is Personal</title>
+  <link>https://www.linuxjournal.com/podcast/episode-5-linux-personal</link>
+  <description>&lt;p&gt;Doc Searls and Katherine Druckman talk to Corbin Champion about Userland, an easy way to run Linux on your Android device, and other new projects.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode5.ogg"&gt;Download ogg format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+  <pubDate>Wed, 31 Oct 2018 08:06:57 -0500</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-5-linux-personal</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2018-10/LinuxJournal_Reality2.0_Episode5.mp3" length="25943018" type="audio/mpeg"/>
+    <itunes:summary><p>Doc Searls and Katherine Druckman talk to Corbin Champion about Userland, an easy way to run Linux on your Android device, and other new projects.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode5.ogg">Download ogg format</a></li>
+</ul></itunes:summary>
+    <itunes:title>Episode 5: Linux is Personal</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Doc Searls and Katherine Druckman talk to Corbin Champion about Userland, an easy way to run Linux on your Android device, and other new projects.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode5.ogg">Download ogg format</a></li>
+</ul></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-5.jpg?itok=AveJdpBG" width="1400" height="1400" alt="Episode 5: Linux is Personal - Cover" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Episode 4: All About Security</title>
+  <link>https://www.linuxjournal.com/podcast/episode-4-all-about-security</link>
+  <description>&lt;p&gt;Doc Searls and Katherine Druckman talk to &lt;em&gt;Linux Journal&lt;/em&gt;'s own Kyle Rankin about basic security hardening.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode4.ogg"&gt;Download ogg format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+  <pubDate>Wed, 24 Oct 2018 10:36:00 -0500</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-4-all-about-security</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2018-10/LinuxJournal_Reality2.0_Episode4_0.mp3" length="24530097" type="audio/mpeg"/>
+    <itunes:summary><p>Doc Searls and Katherine Druckman talk to <em>Linux Journal</em>'s own Kyle Rankin about basic security hardening.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode4.ogg">Download ogg format</a></li>
+</ul></itunes:summary>
+    <itunes:title>Episode 4: All About Security</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Doc Searls and Katherine Druckman talk to <em>Linux Journal</em>'s own Kyle Rankin about basic security hardening.</p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode4.ogg">Download ogg format</a></li>
+</ul></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-4_1.jpg?itok=rkkjFNgI" width="1400" height="1400" alt="Reality 2.0 Linux Journal Episode 4" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Episode 3: Microsoft and Patents</title>
+  <link>https://www.linuxjournal.com/podcast/episode-3-microsoft-and-patents</link>
+  <description>&lt;p&gt;Doc Searls and Katherine Druckman talk to Erich Andersen, Corporate Vice President, Deputy General Counsel at Microsoft and Keith Bergelt, CEO of Open Invention Network about Microsoft's recently announced membership with the Open Invention Network patent community.&lt;/p&gt;
+
+&lt;p&gt;Useful links:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.openinventionnetwork.com/pressrelease_details/?id=89"&gt;https://www.openinventionnetwork.com/pressrelease_details/?id=89&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://azure.microsoft.com/en-us/blog/microsoft-joins-open-invention-network-to-help-protect-linux-and-open-source/"&gt;https://azure.microsoft.com/en-us/blog/microsoft-joins-open-invention-network-to-help-protect-linux-and-open-source/&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode3.ogg"&gt;Download ogg format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+  <pubDate>Sun, 14 Oct 2018 13:47:04 -0500</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-3-microsoft-and-patents</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2018-10/LinuxJournal_Reality2.0_Episode3.mp3" length="32674295" type="audio/mpeg"/>
+    <itunes:summary><p>Doc Searls and Katherine Druckman talk to Erich Andersen, Corporate Vice President, Deputy General Counsel at Microsoft and Keith Bergelt, CEO of Open Invention Network about Microsoft's recently announced membership with the Open Invention Network patent community.</p>
+
+<p>Useful links:</p>
+
+<p><a href="https://www.openinventionnetwork.com/pressrelease_details/?id=89">https://www.openinventionnetwork.com/pressrelease_details/?id=89</a></p>
+
+<p><a href="https://azure.microsoft.com/en-us/blog/microsoft-joins-open-invention-network-to-help-protect-linux-and-open-source/">https://azure.microsoft.com/en-us/blog/microsoft-joins-open-invention-network-to-help-protect-linux-and-open-source/</a></p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode3.ogg">Download ogg format</a></li>
+</ul></itunes:summary>
+    <itunes:title>Episode 3: Microsoft and Patents</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Doc Searls and Katherine Druckman talk to Erich Andersen, Corporate Vice President, Deputy General Counsel at Microsoft and Keith Bergelt, CEO of Open Invention Network about Microsoft's recently announced membership with the Open Invention Network patent community.</p>
+
+<p>Useful links:</p>
+
+<p><a href="https://www.openinventionnetwork.com/pressrelease_details/?id=89">https://www.openinventionnetwork.com/pressrelease_details/?id=89</a></p>
+
+<p><a href="https://azure.microsoft.com/en-us/blog/microsoft-joins-open-invention-network-to-help-protect-linux-and-open-source/">https://azure.microsoft.com/en-us/blog/microsoft-joins-open-invention-network-to-help-protect-linux-and-open-source/</a></p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/LinuxJournal_Reality2.0_Episode3.ogg">Download ogg format</a></li>
+</ul></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-3.jpg?itok=zyb6NvJO" width="1400" height="1400" alt="" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Episode 2: Privacy is Personal</title>
+  <link>https://www.linuxjournal.com/podcast/episode-2-privacy-and-consumer</link>
+  <description>&lt;p&gt;Katherine Druckman talks to Doc Searls about consumer privacy, Main Street, and heart attacks at Walmart.&lt;/p&gt;
+
+&lt;p&gt;Links mentioned:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/torproject/status/1049370119338713088"&gt;https://twitter.com/torproject/status/1049370119338713088&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/torproject/status/1049370119338713088"&gt;http://customercommons.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://s3.us-east-2.amazonaws.com/lj-podcast/Linux_Journal_Reality2.0_Episode2.ogg"&gt;Download ogg format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+  <pubDate>Wed, 10 Oct 2018 10:31:32 -0500</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-2-privacy-and-consumer</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2018-10/Linux_Journal_Reality2.0_Episode2.mp3" length="25995725" type="audio/mpeg"/>
+    <itunes:summary><p>Katherine Druckman talks to Doc Searls about consumer privacy, Main Street, and heart attacks at Walmart.</p>
+
+<p>Links mentioned:</p>
+
+<p><a href="https://twitter.com/torproject/status/1049370119338713088">https://twitter.com/torproject/status/1049370119338713088</a></p>
+
+<p><a href="https://twitter.com/torproject/status/1049370119338713088">http://customercommons.org/</a></p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/Linux_Journal_Reality2.0_Episode2.ogg">Download ogg format</a></li>
+</ul></itunes:summary>
+    <itunes:title>Episode 2: Privacy is Personal</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Katherine Druckman talks to Doc Searls about consumer privacy, Main Street, and heart attacks at Walmart.</p>
+
+<p>Links mentioned:</p>
+
+<p><a href="https://twitter.com/torproject/status/1049370119338713088">https://twitter.com/torproject/status/1049370119338713088</a></p>
+
+<p><a href="https://twitter.com/torproject/status/1049370119338713088">http://customercommons.org/</a></p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/Linux_Journal_Reality2.0_Episode2.ogg">Download ogg format</a></li>
+</ul></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-2.jpg?itok=iRw0vRoh" width="1400" height="1400" alt="Episode 2 cover" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+<item>
+  <title>Episode 1: Digital Privacy</title>
+  <link>https://www.linuxjournal.com/podcast/episode-1-digital-privacy</link>
+  <description>&lt;p&gt;Katherine Druckman talks to Doc Searls about digital privacy, wizards and muggles, and boiled frogs.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://s3.us-east-2.amazonaws.com/lj-podcast/Linux_Journal_Reality2.0_Episode1.ogg"&gt;Download ogg format&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+  <pubDate>Wed, 03 Oct 2018 12:08:13 -0500</pubDate>
+    <dc:creator>Linux Journal</dc:creator>
+    <guid isPermaLink="true">https://www.linuxjournal.com/podcast/episode-1-digital-privacy</guid>
+    <enclosure url="https://www.linuxjournal.com/sites/default/files/2018-10/LinuxJournal_Reality2.0_Episode1_0.mp3" length="27183565" type="audio/mpeg"/>
+    <itunes:summary><p>Katherine Druckman talks to Doc Searls about digital privacy, wizards and muggles, and boiled frogs.</p>
+
+<p> </p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/Linux_Journal_Reality2.0_Episode1.ogg">Download ogg format</a></li>
+</ul></itunes:summary>
+    <itunes:title>Episode 1: Digital Privacy</itunes:title>
+    <itunes:author>Linux Journal</itunes:author>
+    <itunes:summary><p>Katherine Druckman talks to Doc Searls about digital privacy, wizards and muggles, and boiled frogs.</p>
+
+<p> </p>
+
+<ul><li><a href="https://s3.us-east-2.amazonaws.com/lj-podcast/Linux_Journal_Reality2.0_Episode1.ogg">Download ogg format</a></li>
+</ul></itunes:summary>
+    <itunes:image>  <img src="/sites/default/files/styles/1400x1400/public/files/linuxjournal.com/podcast/covers/Reality2.0-ep1.jpg?itok=w8-ORtU-" width="1400" height="1400" alt="Episode 1 cover" typeof="foaf:Image" class="img-responsive"/>
+
+
+</itunes:image>
+    </item>
+
+  </channel>
+</rss>

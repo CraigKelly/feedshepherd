@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    >
+    <channel>
+        <title>weirdtrickmafia.fm</title>
+        <atom:link href="https://weirdtrickmafia.fm/post/index.xml" rel="self" type="application/rss+xml" />
+        <link>https://weirdtrickmafia.fm</link>
+        <description>A podcast about tech, feelings, open source, and /dev/urandom.</description>
+        <lastBuildDate>Sat, 6 Jul 2019 00:00:00 &#43;0000</lastBuildDate>
+        <sy:updatePeriod>hourly</sy:updatePeriod>
+        <sy:updateFrequency>1</sy:updateFrequency>
+        <language>en-us</language>
+        <copyright></copyright>
+        <itunes:subtitle>/dev/urandom</itunes:subtitle>
+        <itunes:author>Jessie Frazelle and Andrew Clay Shafer</itunes:author>
+        <itunes:type>episodic</itunes:type>
+        <googleplay:author>Jessie Frazelle and Andrew Clay Shafer</googleplay:author>
+        <googleplay:email>jfrazelle@me.com</googleplay:email>
+        <itunes:summary>A podcast about tech, feelings, open source, and /dev/urandom.</itunes:summary>
+        <itunes:explicit>yes</itunes:explicit>
+        <googleplay:description>A podcast about tech, feelings, open source, and /dev/urandom.</googleplay:description>
+        <itunes:owner>
+            <itunes:name>Jessie Frazelle</itunes:name>
+            <itunes:email>jfrazelle@me.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://weirdtrickmafia.fm/img/podcast_logo.png" />
+        <googleplay:image href="https://weirdtrickmafia.fm/img/podcast_logo.png"></googleplay:image>
+        <image>
+            <url>https://weirdtrickmafia.fm/img/podcast_logo.png</url>
+            <title>weirdtrickmafia.fm</title>
+            <link>https://weirdtrickmafia.fm</link>
+        </image>
+        <itunes:category text="Technology">
+            <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category><generator>Hugo -- gohugo.io</generator>
+        
+        
+        <item>
+            <title>Self ID as SRE</title>
+            <link>https://weirdtrickmafia.fm/post/self-id-as-sre/</link>
+            <pubDate>Sat, 06 Jul 2019 00:00:00 +0000 </pubDate>
+            <dc:creator></dc:creator>
+            <guid>https://weirdtrickmafia.fm/audio/self_ID_as_SRE.mp3</guid>
+            <itunes:author>
+                
+                Andrew Clay Shafer 
+                and Jessie Frazelle</itunes:author>
+            
+            <itunes:episode>12</itunes:episode>
+            
+            <itunes:summary>Reflecting on 20 years of system administration, Miss Amy, self identifies as an SRE/DBRE. She brings her perspectives, valuing resilience engineering and organizational dynamics over machines and tools, to the weird trick mafia audience.</itunes:summary>
+            <description>Reflecting on 20 years of system administration, Miss Amy, self identifies as an SRE/DBRE. She brings her perspectives, valuing resilience engineering and organizational dynamics over machines and tools, to the weird trick mafia audience.</description>
+            <googleplay:description>Reflecting on 20 years of system administration, Miss Amy, self identifies as an SRE/DBRE. She brings her perspectives, valuing resilience engineering and organizational dynamics over machines and tools, to the weird trick mafia audience.</googleplay:description>
+            <content:encoded><![CDATA[<p>Reflecting on 20 years of system administration, Miss Amy, self identifies as an SRE/DBRE. She brings her perspectives, valuing resilience engineering and organizational dynamics over machines and tools, to the weird trick mafia audience.</p>
+]]></content:encoded><enclosure url="https://weirdtrickmafia.fm/audio/self_ID_as_SRE.mp3"  type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit>
+            <googleplay:explicit>yes</googleplay:explicit></item>
+        
+        
+        
+        <item>
+            <title>Open Independence</title>
+            <link>https://weirdtrickmafia.fm/post/open-independence/</link>
+            <pubDate>Thu, 13 Jun 2019 00:00:00 +0000 </pubDate>
+            <dc:creator></dc:creator>
+            <guid>https://weirdtrickmafia.fm/audio/open_independence.mp3</guid>
+            <itunes:author>
+                
+                Andrew Clay Shafer 
+                and Jessie Frazelle</itunes:author>
+            
+            <itunes:episode>11</itunes:episode>
+            
+            <itunes:summary>Henry Zhu joins the mafia. Open Source, Funding, Burnout, Fun and Games until someone gets hurt</itunes:summary>
+            <description>Henry Zhu joins the mafia. Open Source, Funding, Burnout, Fun and Games until someone gets hurt</description>
+            <googleplay:description>Henry Zhu joins the mafia. Open Source, Funding, Burnout, Fun and Games until someone gets hurt</googleplay:description>
+            <content:encoded><![CDATA[<p>Henry Zhu (@left_pad), maintainer of Babel, the Open Source Javascript compiler, joins the mafia. He explains going full time open source independent for the last year, how he pays rent and what he loves/hates about open source. Hope you enjoy another episode of Jess (@jessfraz) and Andrew (@littleidea) tricking people into saying words about stuff.</p>
+]]></content:encoded><enclosure url="https://weirdtrickmafia.fm/audio/open_independence.mp3"  type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit>
+            <googleplay:explicit>yes</googleplay:explicit></item>
+        
+        
+        
+        <item>
+            <title>Extremely on Brand</title>
+            <link>https://weirdtrickmafia.fm/post/extremely-on-brand/</link>
+            <pubDate>Wed, 12 Jun 2019 00:00:00 +0000 </pubDate>
+            <dc:creator></dc:creator>
+            <guid>https://weirdtrickmafia.fm/audio/extremely_on_brand.mp3</guid>
+            <itunes:author>
+                
+                Andrew Clay Shafer 
+                and Jessie Frazelle</itunes:author>
+            
+            <itunes:episode>10</itunes:episode>
+            
+            <itunes:summary>Jess and Andrew get with Abby Fuller (@abbyfuller), Container Czarina extraordinaire, to share stories about startups, cold emails, hacking salesforce and getting in the middle of the cloud container game.</itunes:summary>
+            <description>Jess and Andrew get with Abby Fuller (@abbyfuller), Container Czarina extraordinaire, to share stories about startups, cold emails, hacking salesforce and getting in the middle of the cloud container game.</description>
+            <googleplay:description>Jess and Andrew get with Abby Fuller (@abbyfuller), Container Czarina extraordinaire, to share stories about startups, cold emails, hacking salesforce and getting in the middle of the cloud container game.</googleplay:description>
+            <content:encoded><![CDATA[<p>Jess and Andrew get with Abby Fuller, Container Czarina extraordinaire, to share stories about startups, cold emails, hacking salesforce and getting in the middle of the cloud container game.</p>
+]]></content:encoded><enclosure url="https://weirdtrickmafia.fm/audio/extremely_on_brand.mp3"  type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit>
+            <googleplay:explicit>yes</googleplay:explicit></item>
+        
+        
+        
+        <item>
+            <title>Find Your Laser Panda</title>
+            <link>https://weirdtrickmafia.fm/post/find-your-laser-panda/</link>
+            <pubDate>Wed, 01 May 2019 00:00:00 +0000 </pubDate>
+            <dc:creator></dc:creator>
+            <guid>https://weirdtrickmafia.fm/audio/find_your_laser_panda.mp3</guid>
+            <itunes:author>
+                
+                Andrew Clay Shafer 
+                and Jessie Frazelle</itunes:author>
+            
+            <itunes:episode>9</itunes:episode>
+            
+            <itunes:summary>Sarah Drasner, Renaissance woman extraordinaire, shares stories, insight and advice with the Weird Trick Mafia. Tech, feelings, purpose, pandas.</itunes:summary>
+            <description>Sarah Drasner, Renaissance woman extraordinaire, shares stories, insight and advice with the Weird Trick Mafia. Tech, feelings, purpose, pandas.</description>
+            <googleplay:description>Sarah Drasner, Renaissance woman extraordinaire, shares stories, insight and advice with the Weird Trick Mafia. Tech, feelings, purpose, pandas.</googleplay:description>
+            <content:encoded><![CDATA[<p>Sarah Drasner, Renaissance woman extraordinaire, shares stories, insight
+and advice with the Weird Trick Mafia. Tech, feelings, purpose, pandas.</p>
+
+<p>Mentioned:</p>
+
+<p><a href="https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205" title="The Hard Thing">The Hard Thing About Hard Things, Ben Horowitz</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/The_Fifth_Discipline" title="The Fifth Discipline">The Fifth Discipline, Peter M. Senge</a></p>
+
+<p><a href="https://www.amazon.com/Truth-About-Burnout-Organizations-Personal/dp/1118692136" title="The Truth About Burnout">The Truth About Burnout, Christina Maslach</a></p>
+]]></content:encoded><enclosure url="https://weirdtrickmafia.fm/audio/find_your_laser_panda.mp3"  type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit>
+            <googleplay:explicit>yes</googleplay:explicit></item>
+        
+        
+        
+        <item>
+            <title>Index of Refraction</title>
+            <link>https://weirdtrickmafia.fm/post/index-of-refraction/</link>
+            <pubDate>Mon, 22 Apr 2019 00:59:40 -0500 </pubDate>
+            <dc:creator></dc:creator>
+            <guid>https://weirdtrickmafia.fm/audio/index_of_refraction.mp3</guid>
+            <itunes:author>
+                
+                Andrew Clay Shafer 
+                and Jessie Frazelle</itunes:author>
+            
+            <itunes:episode>8</itunes:episode>
+            
+            <itunes:summary>Jess goes on safari in San Francisco and a wild Lachlan Evenson appears. Jess, Andrew and Lachlan discuss the journey from building the internet in the Australian Outback to Cloud Native and wrap up weighing Net Neutrality.</itunes:summary>
+            <description>Jess goes on safari in San Francisco and a wild Lachlan Evenson appears. Jess, Andrew and Lachlan discuss the journey from building the internet in the Australian Outback to Cloud Native and wrap up weighing Net Neutrality.</description>
+            <googleplay:description>Jess goes on safari in San Francisco and a wild Lachlan Evenson appears. Jess, Andrew and Lachlan discuss the journey from building the internet in the Australian Outback to Cloud Native and wrap up weighing Net Neutrality.</googleplay:description>
+            <content:encoded><![CDATA[<p>Jess goes on safari in San Francisco and a wild Lachlan Evenson appears.
+Jess, Andrew and Lachlan discuss the journey from building the internet in the
+Australian Outback to Cloud Native and wrap up weighing Net Neutrality.</p>
+]]></content:encoded><enclosure url="https://weirdtrickmafia.fm/audio/index_of_refraction.mp3"  type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit>
+            <googleplay:explicit>yes</googleplay:explicit></item>
+        
+        
+        
+        <item>
+            <title>Discover the Past</title>
+            <link>https://weirdtrickmafia.fm/post/discover-the-past/</link>
+            <pubDate>Fri, 19 Apr 2019 12:59:40 -0500 </pubDate>
+            <dc:creator></dc:creator>
+            <guid>https://weirdtrickmafia.fm/audio/discover_the_past.mp3</guid>
+            <itunes:author>
+                
+                Andrew Clay Shafer 
+                and Jessie Frazelle</itunes:author>
+            
+            <itunes:episode>7</itunes:episode>
+            
+            <itunes:summary>Sophie Haskins, ops witch at github (@sophaskins) shares stories about collecting and learning from old hardware with our heroes Jess and Andrew</itunes:summary>
+            <description>Sophie Haskins, ops witch at github (@sophaskins) shares stories about collecting and learning from old hardware with our heroes Jess and Andrew</description>
+            <googleplay:description>Sophie Haskins, ops witch at github (@sophaskins) shares stories about collecting and learning from old hardware with our heroes Jess and Andrew</googleplay:description>
+            <content:encoded><![CDATA[<p>Sophie Haskins, ops witch at github (@sophaskins) shares stories about collecting and
+learning from old hardware with our heroes Jess and Andrew.</p>
+
+<p>Learn more from Sophie at <a href="http://blog.pizzabox.computer">http://blog.pizzabox.computer</a></p>
+]]></content:encoded><enclosure url="https://weirdtrickmafia.fm/audio/discover_the_past.mp3"  type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit>
+            <googleplay:explicit>yes</googleplay:explicit></item>
+        
+        
+        
+        <item>
+            <title>Remember the Future</title>
+            <link>https://weirdtrickmafia.fm/post/remember-the-future/</link>
+            <pubDate>Mon, 15 Apr 2019 00:59:40 -0500 </pubDate>
+            <dc:creator></dc:creator>
+            <guid>https://weirdtrickmafia.fm/audio/remember_the_future.mp3</guid>
+            <itunes:author>
+                
+                Andrew Clay Shafer 
+                and Jessie Frazelle</itunes:author>
+            
+            <itunes:episode>6</itunes:episode>
+            
+            <itunes:summary>Erica Windisch, CTO, Co-Founder of IOpipe walks down memory lane, working with Jess and Drew, building clouds, serverless, and more random tech feelings.</itunes:summary>
+            <description>Erica Windisch, CTO, Co-Founder of IOpipe walks down memory lane, working with Jess and Drew, building clouds, serverless, and more random tech feelings.</description>
+            <googleplay:description>Erica Windisch, CTO, Co-Founder of IOpipe walks down memory lane, working with Jess and Drew, building clouds, serverless, and more random tech feelings.</googleplay:description>
+            <content:encoded><![CDATA[<p>Erica Windisch, CTO, Co-Founder of IOpipe walks down memory lane, working with
+Jess and Drew, building clouds, serverless, and more random tech feelings.</p>
+]]></content:encoded><enclosure url="https://weirdtrickmafia.fm/audio/remember_the_future.mp3"  type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit>
+            <googleplay:explicit>yes</googleplay:explicit></item>
+        
+        
+        
+        <item>
+            <title>That&#39;s My Super Power</title>
+            <link>https://weirdtrickmafia.fm/post/thats-my-super-power/</link>
+            <pubDate>Mon, 08 Apr 2019 00:59:40 -0500 </pubDate>
+            <dc:creator></dc:creator>
+            <guid>https://weirdtrickmafia.fm/audio/thats_my_super_power.mp3</guid>
+            <itunes:author>
+                
+                Andrew Clay Shafer 
+                and Jessie Frazelle</itunes:author>
+            
+            <itunes:episode>5</itunes:episode>
+            
+            <itunes:summary>Senior Staff Engineer at VMware and Co-Chair of Kubecon, Bryan Liles  (@bryanl) shares his stories and philosophies with Jess and Andrew.</itunes:summary>
+            <description>Senior Staff Engineer at VMware and Co-Chair of Kubecon, Bryan Liles  (@bryanl) shares his stories and philosophies with Jess and Andrew.</description>
+            <googleplay:description>Senior Staff Engineer at VMware and Co-Chair of Kubecon, Bryan Liles  (@bryanl) shares his stories and philosophies with Jess and Andrew.</googleplay:description>
+            <content:encoded><![CDATA[<p>Senior Staff Engineer at VMware and Co-Chair of Kubecon, Bryan Liles (<a href="https://twitter.com/bryanl">@bryanl</a>) shares his stories and philosophies with Jess and Andrew.</p>
+]]></content:encoded><enclosure url="https://weirdtrickmafia.fm/audio/thats_my_super_power.mp3"  type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit>
+            <googleplay:explicit>yes</googleplay:explicit></item>
+        
+        
+        
+        <item>
+            <title>Resourceful &amp; Persistent</title>
+            <link>https://weirdtrickmafia.fm/post/resourceful-and-persistent/</link>
+            <pubDate>Thu, 04 Apr 2019 00:59:40 -0500 </pubDate>
+            <dc:creator></dc:creator>
+            <guid>https://weirdtrickmafia.fm/audio/resourceful_and_persistent.mp3</guid>
+            <itunes:author>
+                
+                Andrew Clay Shafer 
+                and Jessie Frazelle</itunes:author>
+            
+            <itunes:episode>4</itunes:episode>
+            
+            <itunes:summary>Verónica López (@maria_fibonacci) shares her software engineering journey from physics and mobile projects in Mexico to Cloud Native Kubernetes in Silicon Valley with Andrew and Jess.</itunes:summary>
+            <description>Verónica López (@maria_fibonacci) shares her software engineering journey from physics and mobile projects in Mexico to Cloud Native Kubernetes in Silicon Valley with Andrew and Jess.</description>
+            <googleplay:description>Verónica López (@maria_fibonacci) shares her software engineering journey from physics and mobile projects in Mexico to Cloud Native Kubernetes in Silicon Valley with Andrew and Jess.</googleplay:description>
+            <content:encoded><![CDATA[<p>Verónica López (<a href="https://twitter.com/maria_fibonacci">@maria_fibonacci</a>) shares her software engineering journey from physics and mobile projects in Mexico to Cloud Native Kubernetes in Silicon Valley with Andrew and Jess.</p>
+]]></content:encoded><enclosure url="https://weirdtrickmafia.fm/audio/resourceful_and_persistent.mp3"  type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit>
+            <googleplay:explicit>yes</googleplay:explicit></item>
+        
+        
+        
+        <item>
+            <title>Bleeding Silicon</title>
+            <link>https://weirdtrickmafia.fm/post/bleeding-silicon/</link>
+            <pubDate>Mon, 01 Apr 2019 00:59:40 -0500 </pubDate>
+            <dc:creator></dc:creator>
+            <guid>https://weirdtrickmafia.fm/audio/bleeding_silicon.mp3</guid>
+            <itunes:author>
+                
+                Andrew Clay Shafer 
+                and Jessie Frazelle</itunes:author>
+            
+            <itunes:episode>3</itunes:episode>
+            
+            <itunes:summary>Andrew Clay Shafer and Jess Frazelle discuss Elizabeth Holmes and Theranos.</itunes:summary>
+            <description>Andrew Clay Shafer and Jess Frazelle discuss Elizabeth Holmes and Theranos.</description>
+            <googleplay:description>Andrew Clay Shafer and Jess Frazelle discuss Elizabeth Holmes and Theranos.</googleplay:description>
+            <content:encoded><![CDATA[<p>Andrew and Jess discuss Elizabeth Holmes and Theranos.</p>
+]]></content:encoded><enclosure url="https://weirdtrickmafia.fm/audio/bleeding_silicon.mp3"  type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit>
+            <googleplay:explicit>yes</googleplay:explicit></item>
+        
+        
+        
+        <item>
+            <title>Open All the Compute</title>
+            <link>https://weirdtrickmafia.fm/post/open-all-the-compute/</link>
+            <pubDate>Sat, 30 Mar 2019 09:59:40 -0500 </pubDate>
+            <dc:creator></dc:creator>
+            <guid>https://weirdtrickmafia.fm/audio/open_all_the_compute.mp3</guid>
+            <itunes:author>
+                
+                Andrew Clay Shafer 
+                and Jessie Frazelle</itunes:author>
+            
+            <itunes:episode>2</itunes:episode>
+            
+            <itunes:summary>Andrew Clay Shafer and Jess Frazelle discuss open source hardware and firmware from open compute summit.</itunes:summary>
+            <description>Andrew Clay Shafer and Jess Frazelle discuss open source hardware and firmware from open compute summit.</description>
+            <googleplay:description>Andrew Clay Shafer and Jess Frazelle discuss open source hardware and firmware from open compute summit.</googleplay:description>
+            <content:encoded><![CDATA[<p>Andrew and Jess discuss open source hardware and firmware from open compute summit.</p>
+]]></content:encoded><enclosure url="https://weirdtrickmafia.fm/audio/open_all_the_compute.mp3"  type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit>
+            <googleplay:explicit>yes</googleplay:explicit></item>
+        
+        
+        
+        <item>
+            <title>Foundation Head</title>
+            <link>https://weirdtrickmafia.fm/post/foundation-head/</link>
+            <pubDate>Sun, 17 Mar 2019 09:59:40 -0500 </pubDate>
+            <dc:creator></dc:creator>
+            <guid>https://weirdtrickmafia.fm/audio/foundation-head.mp3</guid>
+            <itunes:author>
+                
+                Andrew Clay Shafer 
+                and Jessie Frazelle</itunes:author>
+            
+            <itunes:episode>1</itunes:episode>
+            
+            <itunes:summary>Andrew Clay Shafer and Jess Frazelle discuss open source foundations.</itunes:summary>
+            <description>Andrew Clay Shafer and Jess Frazelle discuss open source foundations.</description>
+            <googleplay:description>Andrew Clay Shafer and Jess Frazelle discuss open source foundations.</googleplay:description>
+            <content:encoded><![CDATA[<p>Andrew and Jess discuss open source foundations.</p>
+
+<p>Note from Jess: If you want to support open source projects checkout <a href="https://opencollective.com">open collective</a>, <a href="https://www.outreachy.org/">outreachy</a>, and the <a href="https://sfconservancy.org/">software conservancy</a>.</p>
+]]></content:encoded><enclosure url="https://weirdtrickmafia.fm/audio/foundation-head.mp3"  type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit>
+            <googleplay:explicit>yes</googleplay:explicit></item>
+        
+        
+        
+        
+    </channel>
+</rss>
