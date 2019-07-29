@@ -13,11 +13,21 @@ main:
 setup:
 	pipenv install
 
-.PHONY: relock-setup
-relock-setup:
+.PHONY: dev-setup
+dev-setup: setup
+	pipenv run python -m pip install ipython
+
+.PHONY: dev-shell
+dev-shell:
+	pipenv run ipython
+
+.PHONY: clean-setup
+clean-setup:
 	pipenv --rm || true
 	rm -f Pipfile.lock
-	pipenv install
+
+.PHONY: relock-setup
+relock-setup: clean-setup setup
 	@echo "You should check git status"
 
 .PHONY: clean
