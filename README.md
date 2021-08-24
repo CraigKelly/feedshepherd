@@ -1,3 +1,3 @@
 # feedshepherd
 
-Help for aggregatig and annotating RSS feeds
+Help for aggregating and annotating RSS feeds
