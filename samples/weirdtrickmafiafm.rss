@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0"
     xmlns:content="http://purl.org/rss/1.0/modules/content/"
     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -15,7 +14,7 @@
         <atom:link href="https://weirdtrickmafia.fm/post/index.xml" rel="self" type="application/rss+xml" />
         <link>https://weirdtrickmafia.fm</link>
         <description>A podcast about tech, feelings, open source, and /dev/urandom.</description>
-        <lastBuildDate>Sat, 6 Jul 2019 00:00:00 &#43;0000</lastBuildDate>
+        <lastBuildDate>Mon, 9 Sep 2019 00:00:00 &#43;0000</lastBuildDate>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
         <language>en-us</language>
@@ -41,6 +40,28 @@
         </image>
         <itunes:category text="Technology">
             <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category><generator>Hugo -- gohugo.io</generator>
+        
+        
+        <item>
+            <title>Jackals Are People Too</title>
+            <link>https://weirdtrickmafia.fm/post/jackals-are-people-too/</link>
+            <pubDate>Mon, 09 Sep 2019 00:00:00 +0000 </pubDate>
+            <dc:creator></dc:creator>
+            <guid>https://weirdtrickmafia.fm/audio/jackals_are_people_too.mp3</guid>
+            <itunes:author>
+                
+                Andrew Clay Shafer 
+                and Jessie Frazelle</itunes:author>
+            
+            <itunes:episode>13</itunes:episode>
+            
+            <itunes:summary>A technology journey spanning engineering, product strategy, opensource, marketing, and business development, Mark Collier shares lessons learned along the way. Getting everyone aligned on the outcome remains an unsolved problem. As always, Andrew needs a computer that actually works.</itunes:summary>
+            <description>A technology journey spanning engineering, product strategy, opensource, marketing, and business development, Mark Collier shares lessons learned along the way. Getting everyone aligned on the outcome remains an unsolved problem. As always, Andrew needs a computer that actually works.</description>
+            <googleplay:description>A technology journey spanning engineering, product strategy, opensource, marketing, and business development, Mark Collier shares lessons learned along the way. Getting everyone aligned on the outcome remains an unsolved problem. As always, Andrew needs a computer that actually works.</googleplay:description>
+            <content:encoded><![CDATA[<p>A technology journey spanning engineering, product strategy, opensource, marketing, and business development, Mark Collier shares lessons learned along the way. Getting everyone aligned on the outcome remains an unsolved problem. As always, Andrew needs a computer that actually works.</p>
+]]></content:encoded><enclosure url="https://weirdtrickmafia.fm/audio/jackals_are_people_too.mp3"  type="audio/mpeg" /><itunes:explicit>yes</itunes:explicit>
+            <googleplay:explicit>yes</googleplay:explicit></item>
+        
         
         
         <item>
