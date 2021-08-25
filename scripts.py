@@ -1,3 +1,4 @@
+import os
 import subprocess
 import sys
 
@@ -77,3 +78,9 @@ def ci():
 
 def run_main():
     print("NOT IMPLEMENTED")
+
+
+def samples():
+    from feedshepherd.utils import _find_sample_files
+    os.chdir("./samples")
+    _find_sample_files()

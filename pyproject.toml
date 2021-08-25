@@ -28,6 +28,7 @@ lint = 'scripts:lint'
 check = 'scripts:check'
 ci = 'scripts:ci'
 serve = 'scripts:run_main'
+samples = 'scripts:samples'
 
 # Formatting and static analysis options
 # IMPORTANT: make sure the analysis options are consistent with black. See
