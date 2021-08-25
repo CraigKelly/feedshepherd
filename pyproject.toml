@@ -1,0 +1,84 @@
+[tool.poetry]
+name = "feedshepherd"
+version = "0.1.0"
+description = "Feed Manager"
+authors = ["Craig Kelly <craig.n.kelly@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+lxml = "^4.6.3"
+bs4 = "^0.0.1"
+requests = "^2.26.0"
+feedparser = "^6.0.8"
+mypy = "^0.910"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.4"
+pylint = "^2.10.2"
+mypy = "^0.910"
+black = "^21.7b0"
+pytest-coverage = "^0.0"
+
+[tool.poetry.scripts]
+test = 'scripts:devtest'
+devtest = 'scripts:devtest'
+typecheck = 'scripts:typecheck'
+lint = 'scripts:lint'
+check = 'scripts:check'
+ci = 'scripts:ci'
+serve = 'scripts:run_main'
+
+# Formatting and static analysis options
+# IMPORTANT: make sure the analysis options are consistent with black. See
+# https://black.readthedocs.io/en/stable/compatible_configs.html
+[tool.black]
+line-length = 90
+target-version = ['py37']
+include = '\.pyi?$'
+exclude = '''
+(
+  /(
+      \.eggs         # exclude a few common directories in the
+    | \.git          # root of the project
+    | \.hg
+    | \.mypy_cache
+    | \.tox
+    | \.venv
+    | \.env
+    | env
+    | venv
+    | _build
+    | buck-out
+    | build
+    | dist
+  )/
+)
+'''
+
+[tool.pylint.master]
+verbose = 'True'
+[tool.pylint.messages_control]
+disable = "C0103, C0330, C0326"
+[tool.pylint.format]
+max-line-length = "100"
+# Testing tool options
+
+[tool.pytest.ini_options]
+addopts = "--ignore=.venv --doctest-modules"
+markers = [
+    "functional: marks a test as functional and requiring access to GCP resources (deselect with '-m \"not func\"')",
+]
+
+[tool.coverage.paths]
+source = ["feedshepherd"]
+[tool.coverage.run]
+branch = true
+source = ["feedshepherd"]
+[tool.coverage.report]
+show_missing = true
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
