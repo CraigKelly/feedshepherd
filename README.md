@@ -6,10 +6,13 @@ Help for aggregating and annotating RSS feeds
 
 Deps and all managed with poetry
 
+To handle formatting, linting, type checking, and testing with coverage you
+should run `poetry run check`
+
 ## Testing
 
 * Run `poetry run devtest` on your own
-* Run `poetry run ci` for CI
+* Run `poetry run ci` for CI. See also the GitHub workflow for CI
 * Currently `poetry run test` is an alias for `devtest`
 
 ## Sample Files
