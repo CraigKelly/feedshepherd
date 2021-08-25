@@ -82,5 +82,6 @@ def run_main():
 
 def samples():
     from feedshepherd.utils import _find_sample_files
+
     os.chdir("./samples")
     _find_sample_files()
