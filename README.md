@@ -9,5 +9,5 @@ Deps and all managed with poetry
 ## Testing
 
 * Run `poetry run devtest` on your own
-* Run `poetry run citest` for CI
+* Run `poetry run ci` for CI
 * Currently `poetry run test` is an alias for `devtest`
